@@ -6,7 +6,7 @@
 - GPU Compute Capability > 3.0 
 
 
-You can find the list of requirements in [requirements.txt]([https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/Django%20Application/requirements.txt](https://github.com/raygirmanognya99/TEMP/blob/main/Django%20Application/requirements.txt). Main requirements are listed below:
+You can find the list of requirements in [requirements.txt](https://github.com/raygirmanognya99/TEMP/blob/main/Django%20Application/requirements.txt). Main requirements are listed below:
 
 ```
 Python >= v3.6
